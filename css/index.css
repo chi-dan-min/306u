@@ -81,11 +81,6 @@ a {
   transition: all 450ms ease-in-out;
 }
 
-.sparkle {
-  fill: #AAAAAA;
-  transition: all 800ms ease;
-}
-
 .text {
   font-weight: 600;
   color: #AAAAAA;
